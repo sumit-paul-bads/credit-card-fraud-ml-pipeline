@@ -32,4 +32,4 @@ Random Forest was selected based on balanced precision and recall performance.
 - Matplotlib, Seaborn
 
 ## 🔗 Notebook
-(Add NBViewer link here later)
+https://nbviewer.org/github/sumit-paul-bads/credit-card-fraud-ml-pipeline/blob/main/Credit_Card_Fraud_Detection.ipynb
